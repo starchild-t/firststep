@@ -5,3 +5,4 @@ Hello world
 
 MergeTest
 hoge
+bugfix
