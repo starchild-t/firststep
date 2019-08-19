@@ -5,4 +5,6 @@ Hello world
 
 MergeTest
 hoge
-bugfix
+bugfixi
+
+vim
