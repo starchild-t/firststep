@@ -5,4 +5,7 @@ Hello world
 
 MergeTest
 hoge
+
 fixxxxx!!
+
+bugfix
